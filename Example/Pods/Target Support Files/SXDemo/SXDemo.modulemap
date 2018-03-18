@@ -1,0 +1,6 @@
+framework module SXDemo {
+  umbrella header "SXDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

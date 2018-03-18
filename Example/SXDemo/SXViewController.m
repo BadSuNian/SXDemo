@@ -7,7 +7,7 @@
 //
 
 #import "SXViewController.h"
-
+#import "UncaughtExceptionHandler.h"
 @interface SXViewController ()
 
 @end
@@ -18,6 +18,8 @@
 {
     [super viewDidLoad];
 	// Do any additional setup after loading the view, typically from a nib.
+    
+    InstallUncaughtExceptionHandler();
 }
 
 - (void)didReceiveMemoryWarning
