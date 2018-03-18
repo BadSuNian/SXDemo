@@ -8,8 +8,8 @@
 
 Pod::Spec.new do |s|
   s.name             = 'SXDemo'
-  s.version          = '0.1.0'
-  s.summary          = 'SXDemo'
+  s.version          = '0.2.0'
+  s.summary          = 'SXDemo summary'
 
 # This description is used to generate tags and improve search results.
 #   * Think: What does it do? Why did you write it? What is the focus?
@@ -17,13 +17,13 @@ Pod::Spec.new do |s|
 #   * Write the description between the DESC delimiters below.
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
-  s.description      ="SXDemoSXDemoSXDemoSXDemoSXDemoSXDemoSXDemoSXDemoSXDemo"
+  s.description      = 'SXDemoSXDemoSXDemoSXDemoSXDemoSXDemoSXDemoSXDemoSXDemo'
 
-  s.homepage         = 'https://github.com/BadSuNian/SXSpecs'
+  s.homepage         = 'https://github.com/BadSuNian/SXDemo'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'gaopengname@gmail.com' => '97282073@qq.com' }
-  s.source           = { :git => 'https://github.com/BadSuNian/SXSpecs.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/BadSuNian/SXDemo.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '8.0'

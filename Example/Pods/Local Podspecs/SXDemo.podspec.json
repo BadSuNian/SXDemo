@@ -1,9 +1,9 @@
 {
   "name": "SXDemo",
   "version": "0.1.0",
-  "summary": "A short description of SXDemo.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/gaopengname@gmail.com/SXDemo",
+  "summary": "SXDemo",
+  "description": "SXDemoSXDemoSXDemoSXDemoSXDemoSXDemoSXDemoSXDemoSXDemo",
+  "homepage": "https://github.com/BadSuNian/SXDemo",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
@@ -12,7 +12,7 @@
     "gaopengname@gmail.com": "97282073@qq.com"
   },
   "source": {
-    "git": "https://github.com/gaopengname@gmail.com/SXDemo.git",
+    "git": "https://github.com/BadSuNian/SXDemo.git",
     "tag": "0.1.0"
   },
   "platforms": {
