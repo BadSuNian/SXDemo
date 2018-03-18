@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'SXDemo_Example' do
+  pod 'SXDemo', :path => '../'
+
+  target 'SXDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
